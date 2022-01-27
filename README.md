@@ -91,6 +91,7 @@ See [the contribution guide](https://github.com/discordjs/discord.js/blob/master
 If you don't understand something in the documentation, you are experiencing problems, or you just need a gentle
 nudge in the right direction, please don't hesitate to join our official [Discord.js Server](https://discord.gg/bRCvFy9).
 
+## Additional
 
 This is an edited version of the [Official Discord.js repository](https://github.com/discordjs/discord.js) this version is edited by [CursedBots.inc](https://discord.gg/au55p9jHT9) 
 Please show some love and support to the original makers of d.js and star their repository this forked version is only for me to make the necessary changes I believe could fix a few problems
