@@ -11,6 +11,7 @@
     <a href="https://travis-ci.org/discordjs/discord.js"><img src="https://travis-ci.org/discordjs/discord.js.svg" alt="Build status" /></a>
     <a href="https://david-dm.org/discordjs/discord.js"><img src="https://img.shields.io/david/discordjs/discord.js.svg?maxAge=3600" alt="Dependencies" /></a>
     <a href="https://www.patreon.com/discordjs"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="Patreon" /></a>
+    <a href="https://discord.gg/au55p9jHT9"><img src="https://discordapp.com/api/guilds/739927511613571114/embed.png" alt="My Server" /></a>
   </p>
   <p>
     <a href="https://nodei.co/npm/discord.js/"><img src="https://nodei.co/npm/discord.js.png?downloads=true&stars=true" alt="npm installnfo" /></a>
@@ -89,3 +90,7 @@ See [the contribution guide](https://github.com/discordjs/discord.js/blob/master
 ## Help
 If you don't understand something in the documentation, you are experiencing problems, or you just need a gentle
 nudge in the right direction, please don't hesitate to join our official [Discord.js Server](https://discord.gg/bRCvFy9).
+
+
+This is an edited version of the [Official Discord.js repository](https://github.com/discordjs/discord.js) this version is edited by [CursedBots.inc](https://discord.gg/au55p9jHT9) 
+Please show some love and support to the original makers of d.js and star their repository this forked version is only for me to make the necessary changes I believe could fix a few problems
